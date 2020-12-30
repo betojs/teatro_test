@@ -20,11 +20,11 @@ Comprar Voleto
 
     @csrf
     
-    <label for="" class="col-sm-5 col-form-label">Codigo de Obra: 
+    <label for="" >Codigo de Obra: 
     <input type="text" name="cod_obra" value="{{$obra->cod_obra}}" readonly class="form-control-plaintext" >
-    </label><br><br>
+    </label><br>
     <label for="">Fecha:
-    <input type="datetime" name="fecha_compra" value="{{date('Y-m-d H:i:s')}}" readonly>
+    <input type="datetime" name="fecha_compra" value="{{date('Y-m-d H:i:s')}}" readonly class="form-control-plaintext">
 
     </label><br><br>
     <label for="">Nombre de Comprador:
