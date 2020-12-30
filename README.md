@@ -12,10 +12,9 @@ Sistema de control de voletos del teatro, donde podras ver la disponibilidad de 
 
 ## Pasos para la instalacion y ejecucion 
 
-1. Clonar el repositorio en el apartado web (www) de su localHost 
-   * en mi caso se encuntra dentro de la carpeta de laragon ``` C:\laragon\www ```
-2.
-3.
-4.
-5.
-6.
+1. Clonar el repositorio en el apartado web (www/httdocs) de su localHost 
+   * En mi caso se encuntra dentro de la carpeta de laragon ``` C:\laragon\www ```
+2. Ahora comenzaremos con la instalacion de las dependencias. Para esto requerimos tener previamente instalado el Composer para poder ejecutar el siguiente comando ``` composer update ``` estando dentro de la raiz del proyecto. 
+3. Instalaremos la base de datos, en nuestro manejador de base de datos, podemos copiar el codigo dentro del archivo de SQL que se encuentra en el correo o importar directamente desde el archivo. 
+4. Ahora toca abrir el proyecto en el localhost y entrar en la carpeta public 
+
