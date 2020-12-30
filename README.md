@@ -21,3 +21,10 @@ Sistema de control de voletos del teatro, donde podras ver la disponibilidad de 
 ## Pantallas del sistema
 
 ![Index](https://raw.githubusercontent.com/betojs/teatro_test/main/public/img/index.png)
+index
+![Crear](https://raw.githubusercontent.com/betojs/teatro_test/main/public/img/crear.png)
+Crear obra
+![Comprar](https://raw.githubusercontent.com/betojs/teatro_test/main/public/img/compra.png)
+Comprar Voleto
+
+
