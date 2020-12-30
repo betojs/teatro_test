@@ -18,3 +18,6 @@ Sistema de control de voletos del teatro, donde podras ver la disponibilidad de 
 3. Instalaremos la base de datos, en nuestro manejador de base de datos, podemos copiar el codigo dentro del archivo de SQL que se encuentra en el correo o importar directamente desde el archivo. 
 4. Ahora toca abrir el proyecto en el localhost y entrar en la carpeta public 
 
+## Pantallas del sistema
+
+![Index](https://raw.githubusercontent.com/betojs/teatro_test/main/public/img/index.png)
